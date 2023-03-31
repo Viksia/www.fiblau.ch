@@ -576,16 +576,12 @@ input[type="email"] {
 		transform: none;
 	}
 }
-/* 
-.logo {
-	display: flex;
-	flex-direction: row;
-	align-items: center;
-} */
+
 
 .logo-svg {
+	fill: #fff;
 	display: inline-block;
-	margin: -7px 0 0 0;
+	margin-bottom: -8px;
 }
 
 .logo-text {
