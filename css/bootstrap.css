@@ -7158,6 +7158,16 @@ button.close {
 		display: none !important;
 	}
 
+	.logo-text {
+		font-size: 14px;
+	}
+	.right-about-h1 img {
+		display: none !important;
+	}
+
+	.about-h1 {
+		background: none;
+	}
 	/* .slider-text p {
 		font-size: 10px;
 	} */
