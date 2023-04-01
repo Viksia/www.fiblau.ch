@@ -7181,8 +7181,8 @@ button.close {
 		align-items: center;
 	}
 
-	.btn-menu-mobile {
-		padding: 25px;
+	.btn-menu-mobile-home {
+		padding: 20px 0 20px 0;
 	}
 	/* .logo-svg {
 		width: 70px;
@@ -7194,7 +7194,7 @@ button.close {
 	} */
 }
 
-@media (max-width: 370px) {
+@media (max-width: 340px) {
 	.logo-text {
 		display: none !important;
 	}
