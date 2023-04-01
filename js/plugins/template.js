@@ -67,7 +67,7 @@ $(document).ready(function () {
 	"use strict";
 	Royal_Preloader.config({
 		mode: "logo",
-		logo: "images/logo.png",
+		logo: "images/logo.svg",
 		timeout: 1,
 		showInfo: false,
 		opacity: 1,
