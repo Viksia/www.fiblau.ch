@@ -7159,14 +7159,19 @@ button.close {
 	}
 
 	.logo-text {
-		font-size: 14px;
+		font-size: 14px !important;
 	}
+
 	.right-about-h1 img {
 		display: none !important;
 	}
 
 	.about-h1 {
-		background: none;
+		background: none !important;
+	}
+
+	.subnavi {
+		display: none !important;
 	}
 	/* .slider-text p {
 		font-size: 10px;
