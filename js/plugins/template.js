@@ -2,7 +2,7 @@ $(document).ready(function () {
 	"use strict";
 
 	/* 
-      Intializing Navigation Effect
+Intializing Navigation Effect
     ========================================================================== */
 	$("ul.navi-level-1 li").on("mouseenter", function () {
 		$(this)
@@ -27,7 +27,7 @@ $(document).ready(function () {
 		$(this).removeClass("active");
 	});
 	/* 
-     Home Search
+Home Search
      ========================================================================== */
 	$(".btn-search-navi").on("click", function () {
 		$(".search-popup").toggleClass("open-search-input animated fadeInUp");
@@ -36,8 +36,7 @@ $(document).ready(function () {
 		return false;
 	});
 
-	/* 
-   Backtotop
+	/* Backtotop
    ========================================================================== */
 	var offset = 450;
 	var duration = 500;
@@ -56,7 +55,7 @@ $(document).ready(function () {
 	});
 
 	/* 
-       tooltip
+tooltip
        ========================================================================== */
 
 	$('[data-toggle="tooltip"]').tooltip();
